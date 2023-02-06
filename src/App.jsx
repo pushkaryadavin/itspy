@@ -1,5 +1,7 @@
+import Navbar from "./components/common/Navbar";
+
 function App() {
-  return <div className="text-4xl">Hello</div>;
+  return <Navbar />;
 }
 
 export default App;
